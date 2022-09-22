@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "ARE YOU OK?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "No",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ADAM"
+		},
+		{
+			"expression": "demon",
+			"text": "Let me help",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Woah-that was magic",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ADAM"
+		},
+		{
+			"expression": "confused",
+			"text": "Its our secret now",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "So do you want a rap battle huh?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ADAM"
+		},
+		{
+			"expression": "talk",
+			"text": "YEAH!!!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "SO LET'S START",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "ADAM"
+		}
+	]
+}

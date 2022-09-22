@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dialogo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who ARE YOU?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "The question is what are you doing here?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dialogo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I've been here for 6 years"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "SIX YEARS?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What's your name?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dialogo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My name is alan"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I am BF and she is GF"
+		}
+	]
+}

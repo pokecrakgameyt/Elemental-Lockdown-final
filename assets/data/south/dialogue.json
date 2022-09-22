@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "WOAH YOU ARE GOOD",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "adam"
+		},
+		{
+			"expression": "talk",
+			"text": "Thanks",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "So how did you ended here?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "uh...................",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.085,
+			"portrait": "adam"
+		},
+		{
+			"expression": "talk",
+			"text": "I FORGOT",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "adam"
+		},
+		{
+			"expression": "talk",
+			"text": "how did you forgot HOW YOU ENDED HERE?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "i just know that a purple skin guy took me and had me here for..... huh...... 6 years i think",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "adam"
+		}
+	]
+}

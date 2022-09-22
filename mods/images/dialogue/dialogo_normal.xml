@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sin título: 1.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cabeza0000" x="0" y="0" width="312" height="321" frameX="0" frameY="-2" frameWidth="313" frameHeight="323"/>
+	<SubTexture name="cabeza0001" x="312" y="0" width="313" height="322" frameX="0" frameY="-1" frameWidth="313" frameHeight="323"/>
+	<SubTexture name="cabeza0002" x="625" y="0" width="313" height="323"/>
+	<SubTexture name="cabeza0003" x="0" y="323" width="313" height="323"/>
+</TextureAtlas>

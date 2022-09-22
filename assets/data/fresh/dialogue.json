@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dialogo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait how do you got here"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "This is my dad's house"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dialogo",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WAIT YOUR FATHER IT'S DADDY DEAREST"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "yes?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dialogo",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "YOU ARE DEAD"
+		}
+	]
+}

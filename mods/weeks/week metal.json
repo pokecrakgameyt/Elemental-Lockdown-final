@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"pico",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"philly-nice",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"blammed",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"dad",
+		"gf",
+		"bf"
+	],
+	"storyName": "zach",
+	"weekName": "week metal",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

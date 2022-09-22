@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sin título: 1.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dialogo 10000" x="0" y="0" width="411" height="224" frameX="-5" frameY="0" frameWidth="421" frameHeight="224"/>
+	<SubTexture name="Dialogo 10001" x="411" y="0" width="421" height="224"/>
+	<SubTexture name="Dialogo 10002" x="0" y="224" width="402" height="224" frameX="-9" frameY="0" frameWidth="421" frameHeight="224"/>
+	<SubTexture name="Dialogo 10003" x="402" y="224" width="402" height="221" frameX="-9" frameY="-3" frameWidth="421" frameHeight="224"/>
+	<SubTexture name="damage0000" x="0" y="448" width="403" height="222" frameX="-5" frameY="0" frameWidth="414" frameHeight="222"/>
+	<SubTexture name="damage0001" x="0" y="448" width="403" height="222" frameX="-5" frameY="0" frameWidth="414" frameHeight="222"/>
+	<SubTexture name="damage0002" x="403" y="448" width="414" height="222"/>
+	<SubTexture name="damage0003" x="403" y="448" width="414" height="222"/>
+</TextureAtlas>

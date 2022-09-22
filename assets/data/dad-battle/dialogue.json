@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dialogo",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NO NOT NOW!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "not now what?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I think this is bad"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dialogo",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "HAHAHAHHAHAHA IM FINALLY BACK!"
+		},
+		{
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "THIS IS LIKE THE OTHER TWO?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "I will sing with you I guess"
+		},
+		{
+			"sound": "",
+			"speed": 0.135,
+			"portrait": "dialogo",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "PREPARE TO DIE!!!!!!!!!!"
+		}
+	]
+}

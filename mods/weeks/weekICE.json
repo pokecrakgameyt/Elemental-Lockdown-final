@@ -1,0 +1,50 @@
+{
+	"storyName": "Alan",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weekFIRE",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Bopeebo",
+			"alan",
+			[
+				6,
+				255,
+				253
+			]
+		],
+		[
+			"Fresh",
+			"alan",
+			[
+				6,
+				255,
+				253
+			]
+		],
+		[
+			"Dad Battle",
+			"alan",
+			[
+				6,
+				255,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"gf",
+		"bf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "ICE"
+}
